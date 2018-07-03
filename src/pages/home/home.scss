@@ -1,0 +1,40 @@
+
+page-home {
+    h1{
+        color: darkred;
+    }
+    #sub{
+        margin:auto;
+    }
+    #add{
+        margin-left: 35%;
+        margin-top: 20%;
+    }
+    .bottom{
+        text-align: center;
+
+        button{
+            width: 35%;
+        }
+    }
+    #coco{
+     margin-left: 40%;   
+    }
+    #order{
+        margin-left: 40%;
+    }
+    #rmp{
+        margin:auto;
+        width: 35%;
+    }
+     #summary{
+        text-align: center;
+     }
+     #tick ion-checkbox{
+        margin-right: 5%;
+        margin-left: 30%;
+     }
+     #reset{
+        margin-left: 7%;
+     }
+    }
